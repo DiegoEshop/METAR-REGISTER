@@ -20,7 +20,7 @@ Acesse os dados de qualquer lugar, inclusive com suporte multiusuário e sem lim
 Interface amigável com visualização bonita e emojis para facilitar a leitura;
 
 ⚙️ Como funciona?
-O sistema é composto por um servidor Flask hospedado online (https://DiegoEshop.pythonanywhere.com) que armazena e distribui as informações METAR.
+O sistema é composto por um servidor Flask hospedado online (https://DiegoEshop.pythonanywhere.com/ICAO) que armazena e distribui as informações METAR.
 Você pode atualizar os dados pelo cliente Python, pelo site ou integrar com seus próprios sistemas!
 
 ❗Este programa pode ser sinalizado como suspeito porque foi criado manualmente e não é assinado digitalmente. Pode confiar, o código é aberto e está disponível no GitHub!
