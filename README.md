@@ -22,15 +22,3 @@ Interface amigável com visualização bonita e emojis para facilitar a leitura;
 ⚙️ Como funciona?
 O sistema é composto por um servidor Flask hospedado online (https://DiegoEshop.pythonanywhere.com) que armazena e distribui as informações METAR.
 Você pode atualizar os dados pelo cliente Python, pelo site ou integrar com seus próprios sistemas!
-
-🛠️ E tem mais!
-
-Teste sua conexão com um comando simples /tcptest;
-
-Atualizações automáticas a cada segundo (para quem quiser);
-
-Suporte a múltiplos aeroportos e METARs simultâneos;
-
-🔥 Não perca tempo! Venha testar, colaborar e usar o METAR Register para tornar sua experiência de voo virtual muito mais realista e prática! 🚀
-
-💬 Quer ajuda para usar? Quer sugerir melhorias? Chama aqui no Discord, estamos prontos para decolar junto com você!
